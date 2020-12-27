@@ -4,7 +4,7 @@
 3 - updated
 4 - updated
 5
-6
-7
+6 - changed
+7 - changed
 8
 9 - changed
